@@ -10,7 +10,7 @@ FROM python:3
 
 RUN pip install pytube
 
-```
+```º
 
     
 * **Modificaremos la imagen realizando cambios en el fichero Dockerfile añadiendo lo siguiente dentro de el:**
@@ -35,7 +35,9 @@ RUN pip install pytube
 * **Creamos la imagen nueva en el terminal con el comando 'docker build'**
 
 Para construir la imagen primero me logueo en docker con el comando ```docker login ```
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/1.png?raw=true)
 
+https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/1.png?raw=true
 
 A continuación creo la imagen con el comando ```docker build -t nombre_de_mi_imagen:latest .```
 
