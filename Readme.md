@@ -72,7 +72,5 @@ Nos daremos de alta en la web siguiente enlace https://hub.docker.com
 
 Nos loggeamos en docker con el comando ```docker login```
 
-Posteriormente, crearemos un tag con el comando ```docker tag appyoutube:latest jacobocatelao/appyoutube:latest ```
 
-Por ultimo subo la imagen con el comando ``` sudo docker push jacobocatelao/youtube:latest ```
 
