@@ -48,7 +48,7 @@ A continuación creo la imagen con el comando ```docker build -t nombre_de_mi_im
 Comprobación de Docker run con el comando docker-compose up
 
 
-
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/3.png?raw=true)
 
 
 * **Crea un docker-compose.yml para lanzar el contenedor**
