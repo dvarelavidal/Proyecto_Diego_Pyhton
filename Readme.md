@@ -41,7 +41,7 @@ https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/1.png?raw=true
 
 A continuación creo la imagen con el comando ```docker build -t nombre_de_mi_imagen:latest .```
 
-
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/2.png?raw=true)
 
 * **Pruebala con "docker run"**
 
