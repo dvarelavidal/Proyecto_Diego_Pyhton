@@ -89,6 +89,6 @@ Introducimos la contraseña y estará subido.
 Me encontré con el problema que en docker hub, tenía el repositorio en modo "privado".
 A continuación, lo que hago es crear el repositorio appyoutube2 en modo "publico".
 
-![Imagen] (https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/7.png?raw=true)
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/7.png?raw=true)
 
 
