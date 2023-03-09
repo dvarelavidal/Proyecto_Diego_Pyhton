@@ -84,3 +84,11 @@ Por ultimo subo la imagen con el comando ``` sudo docker push dvarelavidal/appyo
 Introducimos la contraseña y estará subido.
 
 ![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/6.png?raw=true)
+
+
+Me encontré con el problema que en docker hub, tenía el repositorio en modo "privado".
+A continuación, lo que hago es crear el repositorio appyoutube2 en modo "publico".
+
+![Imagen] (https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/7.png?raw=true)
+
+
