@@ -64,12 +64,12 @@ Fichero docker-compose
     command: ['python', 'hola.py']
  
    ```
-* **Date de alta en docker-hub, para poder subirla y hacerla pública**
+* **Nos damos de alta en  docker-hub, para poder subir la imagen y hacerla pública**
 
-Nos daremos de alta en la web siguiente enlace https://hub.docker.com
+La web será esta: https://hub.docker.com
 
 
-
+[Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/Captura%20de%20pantalla%20de%202023-03-09%2015-55-53.png?raw=true)
 
 
 * **Crea un repositorio en docker-hub y sube tu imágen**
