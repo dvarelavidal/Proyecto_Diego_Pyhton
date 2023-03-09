@@ -69,7 +69,7 @@ Fichero docker-compose
 La web será esta: https://hub.docker.com
 
 
-[Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/Captura%20de%20pantalla%20de%202023-03-09%2015-55-53.png?raw=true)
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/Captura%20de%20pantalla%20de%202023-03-09%2015-55-53.png?raw=true)
 
 
 * **Crea un repositorio en docker-hub y sube tu imágen**
