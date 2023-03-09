@@ -76,5 +76,11 @@ La web será esta: https://hub.docker.com
 
 Nos loggeamos en docker con el comando ```docker login```
 
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/5.png?raw=true)
 
+Despues, creo un tag con el comando siguiente ```docker tag youtubeimagen:alpine dvarelavidal/appyoutube:latest ```
 
+Por ultimo subo la imagen con el comando ``` sudo docker push dvarelavidal/appyoutube:latest ```
+Introducimos la contraseña y estará subido.
+
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/6.png?raw=true)
