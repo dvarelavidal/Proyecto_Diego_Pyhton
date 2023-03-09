@@ -3,7 +3,7 @@
 
 ---
 
-* **Utiliza docker hub para localizar  la imagen de python**
+* **Utilizamos docker hub para localizar la imagen de python**
 
 ```yml
 FROM python:3
@@ -43,15 +43,15 @@ A continuación creo la imagen con el comando ```docker build -t nombre_de_mi_im
 
 ![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/2.png?raw=true)
 
-* **Pruebala con "docker run"**
+* **Probamos con "docker run"**
 
 Comprobación de Docker run con el comando docker-compose up
 
 
-![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/3.png?raw=true)
+![Imagen](https://github.com/dvarelavidal/Proyecto_Diego_Pyhton/blob/master/4.png?raw=true)
 
 
-* **Crea un docker-compose.yml para lanzar el contenedor**
+* **Crearemos un docker-compose.yml para arrancar el contenedor**
 
 Fichero docker-compose
 
@@ -67,6 +67,8 @@ Fichero docker-compose
 * **Date de alta en docker-hub, para poder subirla y hacerla pública**
 
 Nos daremos de alta en la web siguiente enlace https://hub.docker.com
+
+
 
 
 
